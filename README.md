@@ -1,38 +1,22 @@
-# Sixuan Li Academic Website
+# Sixuan Li Homepage
 
-Static academic homepage for GitHub Pages, styled after a modern Wowchemy-style academic website.
+This is a simple single-page academic homepage in the style of a traditional finance/econ PhD personal website.
 
-## Upload instructions
+## Files
 
-Upload all files and folders in this ZIP to the root of your GitHub Pages repository.
+- `index.html`: homepage
+- `style.css`: page style
+- `assets/Sixuan_Li_photo.jpg`: homepage photo
+- `uploads/Sixuan_Li_CV.pdf`: CV
 
-Required structure:
+## Publish on GitHub Pages
 
-```
-index.html
-research.html
-cv.html
-style.css
-assets/photo.jpg
-uploads/Sixuan_Li_CV.pdf
-```
+Upload all files and folders to the root of your GitHub Pages repository.
 
-If your GitHub username is `sixuan0106`, the clean personal-site repository should be named:
+For the clean URL `https://sixuan0106.github.io`, the repository name should be:
 
-```
-sixuan0106.github.io
-```
+`sixuan0106.github.io`
 
-Then the site URL is:
+For the custom domain `www.sixuanli.com`, create a file named `CNAME` containing:
 
-```
-https://sixuan0106.github.io
-```
-
-For a custom domain, create a file named `CNAME` containing:
-
-```
-www.sixuanli.com
-```
-
-and configure DNS at your domain provider.
+`www.sixuanli.com`
