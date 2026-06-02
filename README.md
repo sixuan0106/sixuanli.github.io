@@ -1,12 +1,32 @@
 # Sixuan Li Academic Website
 
-Files:
-- index.html
-- style.css
-- Sixuan_Li_CV.pdf
+This is a static academic website for GitHub Pages.
 
-To publish with GitHub Pages:
-1. Create a GitHub repository named `sixuanli.github.io` or any repository name.
-2. Upload these files to the repository root.
-3. Go to Settings → Pages and choose the main branch as the source.
-4. Optional: bind a custom domain in Settings → Pages.
+## Files
+
+- `index.html`: homepage
+- `research.html`: research page
+- `presentations.html`: presentations page
+- `teaching.html`: teaching and skills page
+- `style.css`: website styling
+- `Sixuan_Li_CV.pdf`: CV file
+
+## How to publish
+
+Upload all files to your GitHub Pages repository root directory.
+
+For a personal GitHub Pages site, the recommended repository name is:
+
+`sixuan0106.github.io`
+
+The website will then be available at:
+
+`https://sixuan0106.github.io`
+
+## Custom domain
+
+If you purchase `sixuanli.com`, set your GitHub Pages custom domain to:
+
+`www.sixuanli.com`
+
+Then configure DNS at your domain provider.
