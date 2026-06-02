@@ -1,32 +1,38 @@
 # Sixuan Li Academic Website
 
-This is a static academic website for GitHub Pages.
+Static academic homepage for GitHub Pages, styled after a modern Wowchemy-style academic website.
 
-## Files
+## Upload instructions
 
-- `index.html`: homepage
-- `research.html`: research page
-- `presentations.html`: presentations page
-- `teaching.html`: teaching and skills page
-- `style.css`: website styling
-- `Sixuan_Li_CV.pdf`: CV file
+Upload all files and folders in this ZIP to the root of your GitHub Pages repository.
 
-## How to publish
+Required structure:
 
-Upload all files to your GitHub Pages repository root directory.
+```
+index.html
+research.html
+cv.html
+style.css
+assets/photo.jpg
+uploads/Sixuan_Li_CV.pdf
+```
 
-For a personal GitHub Pages site, the recommended repository name is:
+If your GitHub username is `sixuan0106`, the clean personal-site repository should be named:
 
-`sixuan0106.github.io`
+```
+sixuan0106.github.io
+```
 
-The website will then be available at:
+Then the site URL is:
 
-`https://sixuan0106.github.io`
+```
+https://sixuan0106.github.io
+```
 
-## Custom domain
+For a custom domain, create a file named `CNAME` containing:
 
-If you purchase `sixuanli.com`, set your GitHub Pages custom domain to:
+```
+www.sixuanli.com
+```
 
-`www.sixuanli.com`
-
-Then configure DNS at your domain provider.
+and configure DNS at your domain provider.
